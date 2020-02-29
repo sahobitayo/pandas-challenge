@@ -2,85 +2,59 @@
 ## Repository for Pandas Project
 
 
-Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
-Your final report should include each of the following:
+In this project, I was assigned to analyze data for a fantasy game  called Heroes of Pymoli. The game is free but players are encouraged to buy optional items to better experience. I was assigned to generte a report from the players purchasing data to get good insights. The final report had the following:
 
-Player Count
+# Player Count
 
-Total Number of Players
+# Total Number of Players
 
+# Purchasing Analysis (Total)
 
-Purchasing Analysis (Total)
+# Number of Unique Items
+1. Average Purchase Price
+2. Total Number of Purchases
+3. Total Revenue
 
-Number of Unique Items
-Average Purchase Price
-Total Number of Purchases
-Total Revenue
+# Gender Demographics
 
+1. Percentage and Count of Male Players
+2. Percentage and Count of Female Players
+3. Percentage and Count of Other / Non-Disclosed
 
-Gender Demographics
-
-Percentage and Count of Male Players
-Percentage and Count of Female Players
-Percentage and Count of Other / Non-Disclosed
-
-
-Purchasing Analysis (Gender)
+# Purchasing Analysis (Gender)
 
 The below each broken by gender
+1. Purchase Count
+2. Average Purchase Price
+3. Total Purchase Value
+4. Average Purchase Total per Person by Gender
 
-Purchase Count
-Average Purchase Price
-Total Purchase Value
-Average Purchase Total per Person by Gender
-
-
-
-
-Age Demographics
-
+# Age Demographics
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
+1. Purchase Count
+2. Average Purchase Price
+3. Total Purchase Value
+4. Average Purchase Total per Person by Age Group
 
-Purchase Count
-Average Purchase Price
-Total Purchase Value
-Average Purchase Total per Person by Age Group
-
-
-
-
-Top Spenders
-
+# Top Spenders
 Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+1. SN
+2. Purchase Count
+3. Average Purchase Price
+4. Total Purchase Value
 
-SN
-Purchase Count
-Average Purchase Price
-Total Purchase Value
-
-
-
-
-Most Popular Items
-
+# Most Popular Items
 Identify the 5 most popular items by purchase count, then list (in a table):
+1. Item ID
+2. Item Name
+3. Purchase Count
+4. Item Price
+5. Total Purchase Value
 
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
-
-
-
-
-Most Profitable Items
-
+# Most Profitable Items
 Identify the 5 most profitable items by total purchase value, then list (in a table):
-
-Item ID
-Item Name
-Purchase Count
-Item Price
-Total Purchase Value
+1. Item ID
+2. Item Name
+3. Purchase Count
+4. Item Price
+5. Total Purchase Value
